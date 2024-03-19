@@ -26,7 +26,7 @@ This web application allows users to manage their tasks efficiently. It provides
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-manager.
+   git clone https://github.com/Beanbend2/test.git.
 
 2. Create a new branch in the repo with your name.
 
